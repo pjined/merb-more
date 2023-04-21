@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
