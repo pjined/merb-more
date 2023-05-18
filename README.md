@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
