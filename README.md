@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Expand Model method type hinting (#8279)
