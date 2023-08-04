@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
