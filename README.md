@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Cleanup Docs languages (#7865)
