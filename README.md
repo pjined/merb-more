@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Add new YOLOv8 OBB model metrics (#7379)
