@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Docs partial mdformat improvements (#7378)
