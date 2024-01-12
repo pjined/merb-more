@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Update Discord and Contributing Guide URLs (#9270)
