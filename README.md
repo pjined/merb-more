@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
