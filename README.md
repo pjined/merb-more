@@ -1,1 +1,1 @@
-Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
