@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Improve Coral Edge TPU guide (#8160)
