@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Replacing Images for torchscript.md (#8596)
