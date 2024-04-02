@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
