@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Update TFLite Docs images (#8605)
