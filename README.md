@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add simple-utilities.md Docs page (#8269)
