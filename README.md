@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Allow Annotator PIL.Image inputs (#8397)
