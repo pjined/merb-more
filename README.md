@@ -1,1 +1,1 @@
-ultralytics 8.1.19 PNNX aarch64 linux fix (#8480)
+Fix xyxyxyxyn calculation, swap axis (#8249)
