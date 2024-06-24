@@ -1,1 +1,1 @@
-Fix docs links (#7096)
+Add visuals in guides/distance-calculation.md (#7876)
