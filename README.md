@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Python refactorings and simplifications (#7549)
