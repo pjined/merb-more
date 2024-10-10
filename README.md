@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
